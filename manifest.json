@@ -3,7 +3,7 @@
   "name": "HTML comments",
   "version": "0.1.0",
   "description": "List of all HTML comments of the page.",
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html"
   },
   "permissions": [
